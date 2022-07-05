@@ -8,7 +8,7 @@
 - 📫 How to reach me: 2375367814@qq.com
 - ⚡ Fun fact: game, pingpang, some kind of books, etc.
 
-### Here's a junior from Nanjing University, majoring in Software Engineering.
+### I'm from Nanjing University, majoring in Software Engineering.
 
 ## ㊙️ Something about me...
 <h3 align="left">Languages and Tools:</h3>
