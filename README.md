@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I'm from Nanjing University, majoring in Software Engineering.
 - 🔭 I’m currently working on software engineering.
 - 🌱 I’m currently learning everything I'm interested like Java.
 - 👯 I’m looking to collaborate on funny and clever guys.
@@ -7,8 +8,6 @@
 - 💬 Ask me about everything, wish to meet your funny soul.
 - 📫 How to reach me: 2375367814@qq.com
 - ⚡ Fun fact: game, pingpang, some kind of books, etc.
-
-### I'm from Nanjing University, majoring in Software Engineering.
 
 ## Languages and Tools
 <p align="left"> 
