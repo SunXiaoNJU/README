@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on software engineering.
 - 🌱 I’m currently learning everything to improve my programming.
 - 👯 I’m looking to collaborate on funny and clever guys.
-- 🤔 I’m looking for help with programming.
+- 🤔 I’m trying to understand some hard algorithm.
 - 💬 Ask me about everything, wish to meet your interesting soul.
 - 📫 How to reach me: 2375367814@qq.com
 - ⚡ Fun fact: game, vedio, pingpang, some kind of books, etc.
