@@ -2,12 +2,12 @@
 
 ### I'm from Nanjing University, majoring in Software Engineering.
 - 🔭 I’m currently working on software engineering.
-- 🌱 I’m currently learning everything I'm interested like Java.
+- 🌱 I’m currently learning everything to improve my programming.
 - 👯 I’m looking to collaborate on funny and clever guys.
 - 🤔 I’m looking for help with programming.
-- 💬 Ask me about everything, wish to meet your funny soul.
+- 💬 Ask me about everything, wish to meet your interesting soul.
 - 📫 How to reach me: 2375367814@qq.com
-- ⚡ Fun fact: game, pingpang, some kind of books, etc.
+- ⚡ Fun fact: game, vedio, pingpang, some kind of books, etc.
 
 ## Languages and Tools
 <p align="left"> 
