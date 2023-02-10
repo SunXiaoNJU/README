@@ -23,3 +23,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+  
+## My repositories
+1. New-Mimicry-Sliding-Page-Login-Registration-Responsive-
+  This project aims to show how to implement Implement responsive new mimicry sliding login registration page.
+  The project is public, if you have interest to have a look, I recomment you to have a try personally.
+  By the way, I'm not original. I extend my high gratitude to the original author.
