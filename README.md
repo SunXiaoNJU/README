@@ -25,7 +25,17 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
   
 ## My repositories
-<h2>1. New-Mimicry-Sliding-Page-Login-Registration-Responsive-</h2>
+<h2>0. New-Mimicry-Sliding-Page-Login-Registration-Responsive-</h2>
   This project aims to show how to implement Implement responsive new mimicry sliding login registration page.
   The project is public, if you have interest to have a look, I recomment you to have a try personally.
   By the way, I'm not original. I extend my high gratitude to the original author.
+
+<h2>1. AutomaticTest</h2>
+  Automatic test is my group assignments for electives, and I'm the team leader. In this project, my team members and I implement the test of checkstyle, which is static detector based on static analysis. We base our research on more than 20 top-notch papers， and ous' paper is also list in the project which named `基于静态分析的警报识别的研究与优化`. If you have interest to have a look, we will be very happy.
+  
+<h2>2. Java-song</h2>
+  This project aims to use Java to play a song like `起风了`, which is on fire for a while in Bilibili. This project is just for fun and is not hard. The only difficuly probably is the music theory, which makes me carzy.(>_<)
+  
+ <h2>-1. Future projects to be updated...</h2>
+ Of course, mamy public projects are ignored, because they are whether learning notes or homework.(Ok, I admit I'm lazy sometime(T_T))<br>
+ I promise I will update more interesting projects if I'm free. Looking forward to meeting you next time！
